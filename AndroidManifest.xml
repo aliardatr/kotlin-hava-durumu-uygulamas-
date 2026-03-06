@@ -54,7 +54,8 @@
         <!-- Test App ID (bu alanı kendi id ile değiştir) -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="app-id-eklenecek"/>
+            android:value="app-id-eklenecek"/> // id ni ekle
 
     </application>
+
 </manifest>
